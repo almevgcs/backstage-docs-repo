@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-docs-repo
+  annotations:
+    github.com/project-slug: almevgcs/backstage-docs-repo
+spec:
+  type: ccsdk
+  lifecycle: test
+  owner: guests
