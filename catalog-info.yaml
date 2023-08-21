@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage-docs-repo
   annotations:
-    github.com/project-slug: almevgcs/backstage-docs-repo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: ccsdk
   lifecycle: test
